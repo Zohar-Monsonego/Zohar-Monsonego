@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zohar-Monsonego
-- 🌱 I’m currently in the beginning of my third year studing software engineering
--  ⚡ I'm working on a project in C++ language
+- 🌱 I’m currently in my third year studing software engineering
+-  ⚡ I'm woeking on a project in Java 
 - 😄 There is no such thing as i can't there is i don't want enough
 
 
