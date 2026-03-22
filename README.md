@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zohar-Monsonego
-- 🌱 I’m currently in my fourth year studing software engineering
-- 😄 There is no such thing as i can't there is i don't want enough
+- 👋 Hi, I’m Zohar Monsonego
+- 🌱 I recently graduated with a degree in Software Engineering and I’m seeking my first opportunity in the field.
+- 😄 There is no such thing as I can't there is I don't want enough
 
 
 <!---
